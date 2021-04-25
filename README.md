@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/jasminyas7" target="blank"><img src="https://img.shields.io/twitter/follow/jasminyas7?logo=twitter&style=for-the-badge" alt="jasminyas7" /></a> </p>
 
-- 🔭 I’m currently working on [My website](http://www.chasingikigai.com)
+- 🔭 I’m currently working on [my personal website, go check it out ^^](http://www.chasingikigai.com)
 
 - 🌱 I’m currently learning **web development, drawing, writing and making content**
 
