@@ -9,6 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: Jasminyas/blog-post-workflow@master
+      - uses: Jasminyas/blog-post-workflow@main
         with:
           feed_list: "https://medium.com/feed/@ymaricar"
