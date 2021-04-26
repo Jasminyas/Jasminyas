@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [my personal website, go check it out ^^](http://www.chasingikigai.com)
 
-- 🌱 I’m currently learning **web development, drawing, writing and making content**
+- 🌱 I’m currently learning **drawing, writing and making content**
 
-- 📝 I regularly write articles on [career, personal growth and tech/AI](career, personal growth and tech/AI)
+- 📝 I regularly write articles on **career, personal growth and tech/AI**
 
 - 💬 Ask me about **Data Science, career advice, personal growth**
 
