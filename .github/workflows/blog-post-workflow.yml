@@ -2,13 +2,13 @@ name: Latest blog post workflow
 on:
   schedule:
     # Runs every day
-    - cron: "0 5 * * *"
+    - cron: "*/5 * * * *"
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: Jasminyas/.github/workflows/blog-post-workflow@main
+      - uses: Jasminyas/Jasminyas/.github/workflows/blog-post-workflow@main
         with:
           feed_list: "https://medium.com/feed/@ymaricar"
