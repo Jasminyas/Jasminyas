@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasmine</h1>
-<h3 align="center">I am a passionate Data Scientist working in video games 🎮</h3>
+<h3 align="center">I am a passionate Data Scientist/ML developer currently working in the video games industry 🎮</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasminyas&label=Profile%20views&color=0e75b6&style=flat" alt="jasminyas" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [my personal website, go check it out ^^](http://www.chasingikigai.com)
 
-- 🌱 I’m currently learning **drawing, writing and making content**
+- 🌱 I’m currently learning **drawing, writing, product thinking, leadership**
 
-- 📝 I regularly write articles on **career, personal growth and tech/AI**
+- 📝 I write articles on **career, personal growth and tech/AI**
 
 - 💬 Ask me about **Data Science, career advice, personal growth**
 
