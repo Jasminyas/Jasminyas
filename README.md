@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [my personal website, go check it out ^^](http://www.chasingikigai.com)
 
-- 🌱 I’m currently learning **drawing, writing, product thinking, leadership**
+- 🌱 I’m currently learning **drawing, writing, design thinking, leadership**
 
 - 📝 I write articles on **career, personal growth and tech/AI**
 
