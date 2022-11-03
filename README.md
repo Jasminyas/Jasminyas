@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasminyas&label=Profile%20views&color=0e75b6&style=flat" alt="jasminyas" /> </p>
 
-- 🔭 I’m currently working on [my personal website, go check it out ^^](http://www.chasingikigai.com) 
--> Made using Jekyll (static web generator), Ruby and Netlify for deployment.
+- 🔭 Current musings and technical articles : [Medium blog](http://ymaricar.medium.com) 
 
 - 👾 You can find some sample code by me here : https://github.com/Jasminyas/kickstarter-campaign-prediction 
 -> I also know how to dockerize ML models and deploy them into simple web apps.
