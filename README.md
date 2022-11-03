@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasminyas&label=Profile%20views&color=0e75b6&style=flat" alt="jasminyas" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jasminyas7" target="blank"><img src="https://img.shields.io/twitter/follow/jasminyas7?logo=twitter&style=for-the-badge" alt="jasminyas7" /></a> </p>
-
 - 🔭 I’m currently working on [my personal website, go check it out ^^](http://www.chasingikigai.com) 
 -> Made using Jekyll (static web generator), Ruby and Netlify for deployment.
 
