@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasmine</h1>
-<h3 align="center">I am a passionate Data Scientist/ML developer currently working at Microsoft as an AI Cloud Solutions Architect</h3>
+<h3 align="center">I am a passionate Data Scientist/ML developer specialized in NLP/NLU/NLG and currently working at Microsoft</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasminyas&label=Profile%20views&color=0e75b6&style=flat" alt="jasminyas" /> </p>
 
